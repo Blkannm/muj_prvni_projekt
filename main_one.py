@@ -5,9 +5,6 @@ author: Trung Le
 email: trung.le3301@gmail.com
 discord: BLKANNM#1363
 """
-from cgitb import text
-from operator import truediv
-from traceback import print_tb
 
 
 TEXTS = ['''
